@@ -99,3 +99,5 @@ Exceptions Table (exceptions)
 ## Summary
 
 This documentation describes the structure of the raw data, the data quality exceptions table, and the end-to-end lineage from data generation to automated quality validation. It is designed to support auditability, explainability, and future extensibility of the data quality framework.
+
+Pleased find the Tableau dashboard corresponding to the exceptions logged on this link: https://public.tableau.com/app/profile/nishkarsh.khokhar/viz/DataQualitydashboard-TradesSecurities/DQDashboardforTrades
